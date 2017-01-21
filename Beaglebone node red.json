@@ -1,0 +1,1 @@
+[{"id":"a0723894.e59108","type":"inject","z":"121ef23c.a5a50e","name":"invalid command","topic":"","payload":"","payloadType":"str","repeat":"","crontab":"","once":false,"x":206.390625,"y":488.20703125,"wires":[["a5d70c43.08f6b"]]}]
